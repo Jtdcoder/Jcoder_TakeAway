@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 /**
  *  作者：Jcoder
- *  项目：小贾外卖
+ *  项目：外卖
  */
 public class MainActivity extends BaseActivity {
 
