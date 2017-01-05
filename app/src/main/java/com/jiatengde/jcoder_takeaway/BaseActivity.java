@@ -15,6 +15,5 @@ public abstract class BaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(getLayoutId());
     }
-
     protected abstract int getLayoutId();
 }
